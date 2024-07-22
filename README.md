@@ -1,4 +1,11 @@
-TASK 2
+Name: N JAYANTH 
+Company: CODTECH IT SOLUTIONS
+ID: CT08DS3259
+Domain: VLSI 
+Duration: JUNE TO JULY 2024 
+Mentor: N SANTOSH
+
+Overview of the ProjectTASK 2
 
 Project: Design FSMs using Verilog or VHDL
 
